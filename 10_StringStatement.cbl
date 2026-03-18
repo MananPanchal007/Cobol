@@ -4,7 +4,7 @@
       * Purpose:
       * Tectonics: cobc
       ******************************************************************
-              IDENTIFICATION DIVISION.
+       IDENTIFICATION DIVISION.
        PROGRAM-ID. 10_StringStatement.
 
        DATA DIVISION.
